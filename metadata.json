@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI Assistant",
+  "description": "An intelligent multimodal assistant system featuring voice control, autonomous self-adding dynamic feature creation, device automation command routing, file workspace, reminder scheduler, and live Gemini AI integration.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
